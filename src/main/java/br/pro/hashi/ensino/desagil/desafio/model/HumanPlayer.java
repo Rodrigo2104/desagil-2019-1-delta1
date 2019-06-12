@@ -1,7 +1,5 @@
 package br.pro.hashi.ensino.desagil.desafio.model;
 
-import java.util.Stack;
-
 public class HumanPlayer extends Player {
     HumanPlayer(int row,int col,   Board board) {
         super(row,   col,board);

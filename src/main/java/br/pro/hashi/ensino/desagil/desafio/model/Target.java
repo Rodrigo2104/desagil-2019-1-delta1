@@ -13,7 +13,7 @@ public class Target extends Element {
     }
     public void move(){
         int n = rand.nextInt(4);
-        
+
 
         if (n==0){
             this.moveUp();
